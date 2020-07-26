@@ -1,2 +1,2 @@
-# nodejs-practice
- Ini adalah folder latihan NodeJs
+# nodejs-exp
+Exploration in nodeJS
